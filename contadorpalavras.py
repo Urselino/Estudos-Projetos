@@ -7,6 +7,7 @@ def menu():
     print()
 while True:
     menu()
+    print()
     escolha = input("Digite sua opção: ")
     print()
     if escolha == '1':
