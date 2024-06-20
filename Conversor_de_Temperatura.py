@@ -32,5 +32,3 @@ while True:
 
     input("Pressione Enter para continuar...")
     print()  # Adiciona uma linha em branco para separar visualmente as execuções
-
-print("Programa encerrado.")
